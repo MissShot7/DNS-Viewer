@@ -1,3 +1,3 @@
-# DNS-Wiewer
-simple program in c# for wiewing DNS
+# DNS-Viewer
+simple program in c# for viewing DNS
 This program is free to use
